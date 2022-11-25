@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1668178049 source:m:\teaching and trainings\code blocks\databasemangement\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StudentDatabase.h"
+	"StudentManagement.h"
+
+1668178502 m:\teaching and trainings\code blocks\databasemangement\studentdatabase.h
+
+1668178119 m:\teaching and trainings\code blocks\databasemangement\studentmanagement.h
+
+1668178509 source:m:\teaching and trainings\code blocks\databasemangement\studentdatabase.c
+	"StudentDatabase.h"
+
+1668178557 source:m:\teaching and trainings\code blocks\databasemangement\studentmanagement.c
+	"StudentManagement.h"
+	"StudentDatabase.h"
+
+1669287148 source:c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StudentDatabase.h"
+	"StudentManagement.h"
+	"FactoryDatabase.h"
+	"FactoryManagement.h"
+
+1668142502 c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\studentdatabase.h
+
+1668142118 c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\studentmanagement.h
+
+1668142508 source:c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\studentdatabase.c
+	"StudentDatabase.h"
+
+1669314376 source:c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\studentmanagement.c
+	"StudentManagement.h"
+	"StudentDatabase.h"
+
+1669151382 c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\hoteldatabase.h
+
+1669150993 c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\hotelmanagement.h
+
+1668797379 c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\factorydatabase.h
+
+1668797493 c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\factorymanagement.h
+
+1668797699 source:c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\factorydatabase.c
+	"FactoryDatabase.h"
+
+1668798169 source:c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\factorymanagement.c
+	"FactoryManagement.h"
+	"FactoryDatabase.h"
+
+1669152380 source:c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\hoteldatabase.c
+	"HotelDatabase.h"
+
+1669272320 source:c:\users\compu tech\downloads\databasemangement-20221117t090144z-001\databasemangement\hotelmanagement.c
+	"HotelManagement.h"
+	"HotelDatabase.h"
+
